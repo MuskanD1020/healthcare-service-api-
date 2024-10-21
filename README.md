@@ -105,7 +105,6 @@ dotenv: Environment variable management
 body-parser: Middleware for parsing incoming request bodies
 nodemon: Development tool for automatically restarting the server
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
